@@ -2,7 +2,7 @@
 
 This project use react and bootstrap. The client is connected to the WebAPI where the data is stored.</br> 
 The WebApi address is: https://localhost:7156/.</br></br>
-**If you want to change it, goto the req.js file and change the port variable.**
+**If you want to change it, go to the req.js file and change the port variable.**
 
 ## Code Structure
 
