@@ -1,4 +1,4 @@
-# WhatsApp Web Client
+# WhatsAppWeb (React)
 
 This project use react and bootstrap.
 The following is a list of the modules the project uses:
@@ -13,14 +13,11 @@ The Webclient contains 3 main section:
 - Chat - The main part of the Web client, this section contains the following components: SideBar and Message (where the messages are shown). This Message's components support the following type of content: text, voice, image, and video.
 
 If the chat page's is refreshed, the page is displayed as a blank content. If a new connection is made, the added data will not be saved.
-
-## User Registred
-
-| Username  | Password |
-| ------------- | ------------- |
-| daniel5  | 123a  |
-| dor2  | 12345a  |
-
+#### Technologies:
+- JWT
+- SignalR
+- React
+- Bootstrap
 
 ## Run the project
 To run the project you need to open the terminal and to install the following before running:
