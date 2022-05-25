@@ -1,0 +1,21 @@
+.modal_record {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    top: 30%;
+    left:50%;
+    width:fit-content
+}
+
+.modal_record_btnrecord{
+    display: flex;
+    margin: auto;
+    margin-bottom: 5px;
+    justify-content: center;
+}
+
+.modal_record_btnstop {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
